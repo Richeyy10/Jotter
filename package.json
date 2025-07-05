@@ -1,7 +1,7 @@
 {
   "name": "my-first-app",
   "version": "0.1.0",
-  "homepage": "https://github.io/Jotter",
+  "homepage": "https://Richeyy10.github.io/Jotter",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
